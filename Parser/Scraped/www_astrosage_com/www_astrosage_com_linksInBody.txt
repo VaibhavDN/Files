@@ -1,0 +1,404 @@
+<a class="fav-ico pull-left" data-toggle="tooltip-r" href="/" title="www.AstroSage.com: Vedic Astrology"><img alt="Vedic Astrology - Horoscope - Online Kundli Software" src="/images/favicon.png" style=" margin-top:3px;" width="50"/></a>
+<a href="/rashifal/" title="Aaj Ka Rashifal / राशिफल">Rashifal</a>
+<a href="/kundli/" title="Free Kundali Software &amp; Kundali Matching">Kundli</a>
+<a href="/2020/horoscope-2020.asp" title="Horoscope 2020">Horoscope 2020</a>
+<a href="/2020/rashifal-2020.asp" title="Get Free Rashifal 2020">Rashifal 2020</a>
+<a href="https://panchang.astrosage.com/calendars/indiancalendar?date=2020&amp;language=en">Calendar 2020</a>
+<a href="/freechart/RegisterUser.asp"><b>Sign Up</b></a>
+<a href="/forgetPassword.asp">Forgot Password?</a>
+<a class="pull-right" href="/forgetUserid.asp">
+            Forgot Username?</a>
+<a data-title="Free Kundli &amp; Horoscope Matching" href="/">
+<img alt="Free Kundli &amp; Horoscope Matching" border="0" src="/images/logo-lg.png" width="190"/></a>
+<a class="btn-flat-bg" href="/2020/aries-horoscope-2020.asp">Aries</a>
+<a class="btn-flat-bg" href="/2020/taurus-horoscope-2020.asp">Taurus</a>
+<a class="btn-flat-bg" href="/2020/gemini-horoscope-2020.asp"> Gemini</a>
+<a class="btn-flat-bg" href="/2020/cancer-horoscope-2020.asp">Cancer</a>
+<a class="btn-flat-bg" href="/2020/leo-horoscope-2020.asp"> Leo</a>
+<a class="btn-flat-bg" href="/2020/virgo-horoscope-2020.asp"> Virgo</a>
+<a class="btn-flat-bg" href="/2020/libra-horoscope-2020.asp">Libra</a>
+<a class="btn-flat-bg" href="/2020/scorpio-horoscope-2020.asp">Scorpio</a>
+<a class="btn-flat-bg" href="/2020/sagittarius-horoscope-2020.asp">Sagittarius</a>
+<a class="btn-flat-bg" href="/2020/capricorn-horoscope-2020.asp">Capricorn</a>
+<a class="btn-flat-bg" href="/2020/aquarius-horoscope-2020.asp">Aquarius</a>
+<a class="btn-flat-bg" href="/2020/pisces-horoscope-2020.asp">Pisces</a>
+<a class="btn btn-deep-orange br-radius card-shadow" data-toggle="tooltip" href="/tamil/" title="Tamil"><span class="min-screen">த</span><span class="lg-screen">தமிழ்</span></a>
+<a class="btn btn-deep-orange br-radius card-shadow" data-toggle="tooltip" href="/telugu/" title="Telugu"><span class="min-screen">తె</span><span class="lg-screen">తెలుగు</span></a>
+<a class="btn btn-deep-orange br-radius card-shadow" data-toggle="tooltip" href="/kannada/" title="Kannada"><span class="min-screen">ಕ</span><span class="lg-screen">ಕನ್ನಡ</span></a>
+<a class="btn btn-deep-orange br-radius card-shadow" data-toggle="tooltip" href="/gujarati/" title="Gujarati"><span class="min-screen">ગુ</span><span class="lg-screen">ગુજરાતી</span></a>
+<a class="btn btn-deep-orange br-radius card-shadow" data-toggle="tooltip" href="/marathi/" title="Marathi"><span class="min-screen">म</span><span class="lg-screen">मराठी</span> </a>
+<a class="btn btn-deep-orange br-radius card-shadow" data-toggle="tooltip" href="/bengali/" title="Bengali"><span class="min-screen">বা</span><span class="lg-screen">বাংলা</span></a>
+<a class="btn btn-deep-orange br-radius card-shadow" data-toggle="tooltip" href="/malayalam/" title="Malayalam"><span class="min-screen">മ</span><span class="lg-screen">മലയാളം</span></a>
+<a class="btn btn-deep-orange br-radius card-shadow" data-toggle="tooltip" href="/urdu/" title="Urdu"><span class="min-screen">دو</span><span class="lg-screen">اردو</span></a>
+<a class="btn btn-deep-orange br-radius card-shadow" data-toggle="tooltip" href="//hindi.astrosage.com/" target="_blank" title="Hindi"><span class="min-screen">हि</span><span class="lg-screen">हिन्दी</span></a>
+<a class="btn btn-deep-orange br-radius card-shadow" data-toggle="tooltip" href="/nepali/" title="Nepali"><span class="min-screen">ने</span><span class="lg-screen">नेपाली</span></a>
+<a href="/" id="hometext"> Home <i class="ui-css3arrow" id="arow"></i></a>
+<a href="/kundli/" title="Free Kundli/ Free Birth Chart">Free Kundli</a>
+<a href="/freechart/matchmaking.asp" title="Free Horoscope Matching/ Kundli Match">Horoscope Matching</a>
+<a href="https://marriage.astrosage.com/" title="AstroSageMarriage.com: Free Matrimony - Shaadi">Matrimony</a>
+<a href="/horoscope/online-horoscope.asp">Online Horoscope</a>
+<a href="/horoscope/daily-horoscope-todays-horoscope.asp">Today's Horoscope</a>
+<a href="/free/hindi-kundli.asp">Hindi Kundli</a>
+<a href="/rashifal/" title="Get your daily rashifal in hindi">Rashifal</a>
+<a href="/lalkitab/" title="Free Lal Kitab Software &amp; Remedies (Red Book)">Lal Kitab</a>
+<a href="/moonsigns/moon.asp" title="Free Moon Sign Horoscope">Moon Signs</a>
+<a href="//buy.astrosage.com/" title="Astro Shop">Astro Shop</a>
+<a href="/magazine/" style="color:red;">E-Magazine</a>
+<a href="/horoscope/" id="horoscopetext"> Horoscope <i class="ui-css3arrow" id="arow1"></i></a>
+<a href="/horoscope/daily-horoscope-todays-horoscope.asp" title="Get Daily horoscope">Today's Horoscope</a>
+<a href="/horoscope/tomorrow-horoscope.asp" title="Get Tomorrow's horoscope">Tomorrow's Horoscope</a>
+<a href="/horoscope/weekly-horoscope.asp" title="Get Weekly horoscope">Weekly Horoscope</a>
+<a href="/horoscope/weekly-love-horoscope.asp" title="Get Weekly love horoscope">Weekly Love </a>
+<a href="/horoscope/monthly-horoscope.asp" title="Get Monthly horoscope">Monthly Horoscope</a>
+<a href="/zodiac/" title="Learn about the Zodiac and Zodiac Signs">Zodiac</a>
+<a href="https://celebrity.astrosage.com/" title="Celebrity Horoscope">Celebrity Horoscope</a>
+<a href="/love-horoscope/">Love Horoscope</a>
+<a href="/chinese-horoscope/">Chinese Horoscope</a>
+<a href="/astrology/" id="astrologytext"> Astrology <i class="ui-css3arrow" id="arow2"></i></a>
+<a href="//k.astrosage.com/" title="Get Unlimited Birth Chart, Unlimited Horoscope Matching, Unlimited Free Reports">AstroSage Cloud</a>
+<a href="/free/astrologysoftware.asp" title="Get Kundli without registration">Free Astrology Software</a>
+<a href="/muhurat/" title="All about of Muhurat">Muhurat</a>
+<a href="/magazine/learn/" title="Get Free Vedic Astrology tutorial">Learn Astrology</a>
+<a href="/planet/" title="Know about planets in astrology">Planets</a>
+<a href="https://www.youtube.com/user/AstroSageIndia?sub_confirmation=1" title="Get Astrology Video Channel">Video Channel</a>
+<a href="/magazine/">Magazine</a>
+<a href="/celebrity-horoscope/">Kundli Database</a>
+<a href="//astrologer.astrosage.com/" title="Get Occult Directory">Occult Directory</a>
+<a href="//babynames.astrosage.com/" title="Get Baby Name Database">Baby Names</a>
+<a href="/atlas/" title="Find latitude, longitude, and time-zone for your city">Atlas</a>
+<a href="/2020/" id="2013reporttext"> 2020 <i class="ui-css3arrow" id="arow3"></i></a>
+<a href="/2020/horoscope-2020.asp">Horoscope 2020</a>
+<a href="/2020/rashifal-2020.asp">राशिफल 2020</a>
+<a href="/2020/chinese-horoscope-2020.asp">Chinese Horoscope 2020</a>
+<a href="/2020/ank-jyotish-2020-rashifal.asp">अंक ज्योतिष 2020</a>
+<a href="/2020/grahan-2020.asp">Grahan 2020</a>
+<a href="https://panchang.astrosage.com/calendars/indiancalendar?date=2020&amp;language=en">Calendar 2020</a>
+<a href="/2020/numerology-reading-2020.asp">Numerology 2020</a>
+<a href="/2020/lal-kitab-horoscope-2020.asp">Lalkitab Horoscope 2020</a>
+<a href="/occult/" id="techniquestext">Occult <i class="ui-css3arrow" id="arow4"></i></a>
+<a href="/palmistry/" title="Get Palm Reading and Palmistry">Palmistry</a>
+<a href="/tarot/" title="Get Free Tarot Reading">Tarot Reading</a>
+<a href="/psychic/" title="Get Free Psychic Clairvoyant">Psychic</a>
+<a href="/vastu/" title="Get Vastu Shastra">Vastu</a>
+<a href="/chineseastrology/" title="Get Chinese Astrology">Chinese Astrology</a>
+<a href="/numerology/" title="Get Numerology">Numerology</a>
+<a href="/mantra/" title="All about Mantra">Mantra</a>
+<a href="/chalisa/" title="Read Chalish">Chalisa</a>
+<a href="/aarti/" title="Read Aarti">Aarti</a>
+<a href="/dharma-karma/" title="Dharma Karma">Dharma Karma</a>
+<a href="/nadiastrology/">Nadi Astrology</a>
+<a href="/swarodaya/">Swarodaya</a>
+<a href="/nakshatra/">Nakshatra</a>
+<a href="/free/" id="freereporttext">Free Reports <i class="ui-css3arrow" id="arow5"></i></a>
+<a href="/free/kaalsarp-yog.asp">Kaalsarp Yoga/ Dosha</a>
+<a href="/gemstones/">Gemstones Report</a>
+<a href="/free/sade-sati-report.asp">Sade Sati Report</a>
+<a href="/free/mangal-dosha-report.asp">Mangal Dosha Report</a>
+<a href="/free/annual-horoscope-varshphal.asp">Varshphal</a>
+<a href="/free/transit-today.asp">Transit Today</a>
+<a href="/free/lal-kitab-report.asp">Lal Kitab Report</a>
+<a href="/free/vimshottari-dasha-prediction-life-report.asp">Vimshottari Dasha</a>
+<a href="//babynames.astrosage.com/">Baby Names Suggestion</a>
+<a href="/alternative-healing.asp" id="healingtext"> Healing <i class="ui-css3arrow" id="arow7"></i></a>
+<a href="/feng-shui/" title="Get Feng Shui">Feng Shui</a>
+<a href="/reiki/" title="Get Reiki Healing">Reiki Healing</a>
+<a href="/meditation/" title="Get Meditation">Meditation</a>
+<a href="/yoga/" title="Get Yoga Poses Yoga Positions">Yoga</a>
+<a href="/crystal/" title="Get Crystal Therapy">Crystal Therapy</a>
+<a href="/color/" title="Get Color Therapy">Color Therapy</a>
+<a href="/acupressure/" title="Get Acupressure Points">Acupressure Points</a>
+<a href="/aromatherapy/" title="Get Aromatherapy">Aromatherapy</a>
+<a href="/ayurveda/" title="Get Ayurveda">Ayurveda</a>
+<a href="/medical-astrology/" title="Medical Astrology">Medical Astrology</a>
+<a href="https://panchang.astrosage.com/" id="panchangtext"> Panchang <i class="ui-css3arrow" id="arow8"></i></a>
+<a href="https://panchang.astrosage.com/panchang/aajkapanchang" title="Get daily panchang panchaangam">Daily Panchang</a>
+<a href="https://panchang.astrosage.com/panchangam-2020" title="Panchangam">Panchangam</a>
+<a href="https://panchang.astrosage.com/panchang/monthly-panchang" title="Monthly Panchang">Monthly Panchang</a>
+<a href="https://panchang.astrosage.com/calendars/indiancalendar">Indian Calendar</a>
+<a href="https://panchang.astrosage.com/panchang/abhijitmuhurat" title="Abhijit Muhurat">Abhijit</a>
+<a href="https://panchang.astrosage.com/panchang/gowripanchangam" title="Gowri Panchangam">Gowri Panchangam</a>
+<a href="https://panchang.astrosage.com/muhurat/do-ghati-muhurat" title="Do Ghati Muhurat">Do Ghati Muhurat</a>
+<a href="/hora.asp" title="Hora Muhurta for a day">Hora Calculator</a>
+<a href="/rahukaal.asp" title="Rahu Kaal/ Rahukalam for a day">Rahu Kalam</a>
+<a href="/chogadia.asp" title="Chogadia Muhurta for a day">Chogadia</a>
+<a href="/sunrise.asp" title="Calculate accurate sun-rise time">Sunrise &amp; Sunset</a>
+<a href="/lalkitab/" id="lalkitabtext"> Lal Kitab <i class="ui-css3arrow" id="arow9"></i></a>
+<a href="/lalkitab/" title="Lal Kitab (Red Book) of Remedies">Lal Kitab Home</a>
+<a href="/lalkitab_introduction.asp" title="Introduction to Lal Kitab">What is Lal Kitab?</a>
+<a href="/free/lal-kitab-report.asp" title="Lal Kitab Kundli Software">Lal Kitab Chart Online</a>
+<a href="/lalkitab/index.asp" title="Lal Kitab Janma Kundli and Varshphal on one single screen">Lal Kitab Worksheet</a>
+<a href="/lalkitab.asp" title="Discuss and Learn Lal Kitab Sytem of Astrology">Lal Kitab Discussion</a>
+<a href="https://www.facebook.com/groups/lalkitab/" rel="nofollow" target="_blank">Lal Kitab Facebook Discussion</a>
+<a href="/lalkitab/LKintroduction.asp" title="A Free Lal Kitab for Learning Lal Kitab">Free Lal Kitab E-book</a>
+<a href="/kpastrology/" id="kptext"> KP <i class="ui-css3arrow" id="arow10"></i></a>
+<a href="/kpSystemIntro.asp" title="Introduction to KP Astrology">What is KP System?</a>
+<a href="/free/astrologysoftware.asp" title="Instantly Get KP Kundli Online">Make KP Chart Online</a>
+<a href="/rp.asp" onclick="manageLink(this)" title="Calculate Ruline Planets for Current Moment">Ruling Planets Now</a>
+<a href="/kppanchang.asp" title="Generate Krishamurti Panchang/ Krishnamurti Ephemeris">KP Panchang Now</a>
+<a href="/freekphorary/instantchart.asp?charttype=kp" title="Get KP Horary Chart (Prashna Kundli) Free">KP Horary Chart Online</a>
+<a href="/kpastrology_forum.asp" title="Discuss and Learn KP Astrology">KP Astrology Discussion</a>
+<a href="http://kpastrology.astrosage.com/" title="KP Astrology Tutorial and Learning Material">KP Astrology Tutorial</a>
+<a href="/compatibility/" id="compatibilitytext"> Compatibility <i class="ui-css3arrow" id="arow11"></i></a>
+<a href="/freechart/matchmaking.asp" title="Free Horoscope Matching &amp; Kundli Match">Horoscope Matching</a>
+<a href="/tamil/porutham.asp" title="Get Porutham Match for Marriage">Porutham</a>
+<a href="/love-match-compatibility.asp" title="Get Free Love Match Compatibility">Love Match</a>
+<a href="/signcompatibility.asp">Moon Sign Compatibility</a>
+<a href="/namehoroscopematching.asp">Name Compatibility</a>
+<a href="/astrology/astrology-compatibility.asp">Astrology Compatibility</a>
+<a href="/numerology/namecompatibility.asp">Numerology Name</a>
+<a href="/numerology/birthdatecompatibility.asp">Birth Date Compatibility</a>
+<a href="/calculators/" id="calculatorstext">Calculators <i class="ui-css3arrow" id="arow12"></i></a>
+<a href="/numerology/calculator.asp" title="Get Numerology Calculator">Numerology Calculator</a>
+<a href="/moonSign.asp" title="Calculate Your Moon Sign Accurately">Moon Sign</a>
+<a href="/sunsign.asp" title="Calculate Your Sun Sign Accurately">Sun Sign</a>
+<a href="/rasi-calculator.asp" title="Get Rasi Calculator">Rasi Calculator</a>
+<a href="/free/rising-ascendant-calculator.asp" title="Calculate Your Ascendant Accurately">Ascendant Calculator</a>
+<a href="/astrology/ayanamsa-calculator.asp" title="Get Ayanamsa Calculator">Ayanamsa Calculator</a>
+<a href="/nakshatra-calculator.asp" title="Get Numerology Calculator">Nakshatra Calculator</a>
+<a href="/calculators/love-calculator.asp" title="Love Calculator">Love Calculator</a>
+<a href="/calculators/friendship-calculator.asp" title="Friendship Calculator">Friendship Calculator</a>
+<a href="https://panchang.astrosage.com/festival/" id="festivalstext">Festivals <i class="ui-css3arrow" id="arow13"></i></a>
+<a href="https://panchang.astrosage.com/festival/shivratri/mahashivratri?date=2020">Mahashivratri 2020</a>
+<a href="https://panchang.astrosage.com/festival/holi/holi-festival?date=2020">Holi 2020</a>
+<a href="https://panchang.astrosage.com/festival/navratri/chaitra-navratri?date=2020">Chaitra Navratri 2020</a>
+<a href="https://panchang.astrosage.com/festival/jagannath-rath-yatra?date=2020">Jagannath Rath Yatra 2020</a>
+<a href="https://panchang.astrosage.com/festival/nag-panchami/nag-panchami?date=2020">Nag Panchami 2020</a>
+<a href="https://panchang.astrosage.com/festival/raksha-bandhan?date=2020">Raksha Bandhan 2020</a>
+<a href="#" id="misctext">Misc <i class="ui-css3arrow" id="arow14"></i></a>
+<a href="/love/" title="Love">Love</a>
+<a href="/wallpapers/" title="Wallpapers">Wallpapers</a>
+<a href="/sai-baba/" title="Sai Baba">Sai Baba</a>
+<a href="/sai-baba/help-me-sai-baba.asp" title="Sai baba help me please">Help Me Sai Baba</a>
+<a href="/ramshalaka.asp" title="Get ramshalaka here.">Ramshalaka</a>
+<a href="/moonsigns/" title="Moon Signs">Moon Signs</a>
+<a href="/kundli/" title="Get kundli">Kundli</a>
+<a href="/ask-ganesha-speaks-for-you.asp" title="Get Ask Ganesha - Ganesha Speaks for You">Ask Ganesha</a>
+<a href="/god/hanuman/hanumanprashnayantra.asp">Hanuman Prashna Yantra</a>
+<a href="/transits/">Transit</a>
+<a href="https://buy.astrosage.com/service/astrosage-brihat-horoscope?language=en&amp;prtnr_id=BKBNH" onclick="getEvents('service', 'brihat-horoscope-banner');"><img alt="AstroSage Brihat Horoscope" class="img-responsive" src="/images/promotion/web-bk1-en.jpg"/></a>
+<a href="//buy.astrosage.com/service/ask-a-question?language=en&amp;prtnr_id=ASKBN" onclick="getEvents('service', 'ask-a-question');"><img alt="Ask A Question" class="img-responsive" src="/images/promotion/web-ask-a-question-en.jpg"/></a>
+<a href="//buy.astrosage.com/service/raj-yoga-report?prtnr_id=RYBAN" onclick="getEvents('service', 'raj-yoga-report');"><img alt="Raj Yoga Report" class="img-responsive" src="/images/promotion/raj-yoga-en.jpg"/></a>
+<a href="https://www.astrosage.com/offer/big-astro-festival.asp?prtnr_id=CABAN" onclick="getEvents('service', 'career-counseling');"><img alt="Career Guidance" class="img-responsive" src="/images/promotion/ca-bn-en.jpg"/></a>
+<a class="BreadCrumb" href="/" title="Home">Home</a>
+<a class="BreadCrumb" href="/celebrity-horoscope/" title="Celebrity Horoscopes">Celebrity Horoscope</a>
+<a class="BreadCrumb" title="Rajnikanth Horoscope">Rajnikanth Horoscope
+                    
+                    </a>
+<a href="default.asp?ch=A">A</a>
+<a href="default.asp?ch=B">B</a>
+<a href="default.asp?ch=C">C</a>
+<a href="default.asp?ch=D">D</a>
+<a href="default.asp?ch=E">E</a>
+<a href="default.asp?ch=F">F</a>
+<a href="default.asp?ch=G">G</a>
+<a href="default.asp?ch=H">H</a>
+<a href="default.asp?ch=I">I</a>
+<a href="default.asp?ch=J">J</a>
+<a href="default.asp?ch=K">K</a>
+<a href="default.asp?ch=L">L</a>
+<a href="default.asp?ch=M">M</a>
+<a href="default.asp?ch=N">N</a>
+<a href="default.asp?ch=O">O</a>
+<a href="default.asp?ch=P">P</a>
+<a href="default.asp?ch=Q">Q</a>
+<a href="default.asp?ch=R">R</a>
+<a href="default.asp?ch=S">S</a>
+<a href="default.asp?ch=T">T</a>
+<a href="default.asp?ch=U">U</a>
+<a href="default.asp?ch=V">V</a>
+<a href="default.asp?ch=W">W</a>
+<a href="default.asp?ch=X">X</a>
+<a href="default.asp?ch=Y">Y</a>
+<a href="default.asp?ch=Z">Z</a>
+<a href="astrosage-rating.asp" title="astrosage rating">AstroSage Rating:</a>
+<a class="celebcont" href="/celebrity-horoscope/rajnikanth-horoscope.asp" title="Rajnikanth Horoscope">
+                        Rajnikanth
+                        Horoscope</a>
+<a class="celebcont" href="/celebrity-horoscope/about-rajnikanth-who-is-rajnikanth.asp" title="Know about Rajnikanth Horoscope">
+                        About
+                        Rajnikanth
+                    </a>
+<a class="celebcont" href="/celebrity-horoscope/rajnikanth-love-horoscope.asp" title="Rajnikanth Love Horoscope">
+                        Rajnikanth
+                        Love Horoscope</a>
+<a class="celebcont" href="/celebrity-horoscope/rajnikanth-career-horoscope.asp" title="Rajnikanth Career Horoscope">
+                        Rajnikanth
+                        Career Horoscope</a>
+<a class="celebcont" href="/celebrity-horoscope/rajnikanth-birth-chart.asp" title="Rajnikanth Birth Horoscope">
+                        Rajnikanth
+                        Birth Horoscope/ birth chart/ kundli</a>
+<a class="celebcont" href="/celebrity-horoscope/rajnikanth-horoscope-2015.asp" title="Rajnikanth 2015 Horoscope">
+                        Rajnikanth 2015
+                        Horoscope</a>
+<a class="celebcont" href="/celebrity-horoscope/rajnikanth-astrology.asp" title="Rajnikanth Astrology Horoscope">
+                        Rajnikanth
+                        Astrology Report</a>
+<a class="celebcont" href="/celebrity-horoscope/rajnikanth-photos-rajnikanth-pictures.asp" title="Rajnikanth Horoscope">
+                        Rajnikanth
+                        Images for Phrenology</a>
+<a alt="astrologysoftware horoscope and kundli" class="mybutton" href="https://www.astrosage.com/free/astrologysoftware.asp" style="color: #fff; padding: 8px; line-height: 24px; text-decoration: none;">
+                Get Your
+                Horoscope
+                Now</a>
+<a name="North">North</a>
+<a name="South">South </a>
+<a class="celebcont" href="/celebrity-Horoscope/about-rajnikanth-who-is-rajnikanth.asp" title="Rajnikanth Horoscope">
+                            Read more on about
+                            Rajnikanth
+                            horoscope</a>
+<a class="celebcont" href="/celebrity-Horoscope/rajnikanth-horoscope-2015.asp" title="Rajnikanth 2015 horoscope">Read
+                            more on
+                            Rajnikanth 2015 horoscope</a>
+<a class="celebcont" href="/celebrity-Horoscope/rajnikanth-birth-chart.asp" title="Rajnikanth  Birth Chart Horoscope">Read
+                            more on
+                            Rajnikanth
+                            Birth Chart</a>
+<a class="celebcont" href="/celebrity-Horoscope/rajnikanth-manglik-report.asp" title="Rajnikanth Manglik Report">Rajnikanth
+                                Manglik / Mangal Dosha Report</a>
+<a class="celebcont" href="/celebrity-Horoscope/rajnikanth-sadesati-report.asp" title="Rajnikanth Shani Report">Rajnikanth
+                                Shani Sadesati Report</a>
+<a class="celebcont" href="/celebrity-Horoscope/rajnikanth-dashaphal.asp" title="Rajnikanth Dasha Phal Report">Rajnikanth
+                                Dasha Phal Report</a>
+<a class="celebcont" href="/celebrity-Horoscope/rajnikanth-transit-today.asp" title="Rajnikanth Transit Today">Rajnikanth
+                                Transit
+                                2015
+                                horoscope</a>
+<a href="default.asp?category=businessman">Businessman</a>
+<a href="default.asp?category=politician">Politician</a>
+<a href="default.asp?category=cricket">Cricket</a>
+<a href="default.asp?category=hollywood">Hollywood</a>
+<a href="default.asp?category=bollywood">Bollywood</a>
+<a href="default.asp?category=musician">Musician</a>
+<a href="default.asp?category=literature">Literature</a>
+<a href="default.asp?category=sports">Sports</a>
+<a href="default.asp?category=criminal">Criminal</a>
+<a href="default.asp?category=astrologer">Astrologer</a>
+<a href="default.asp?category=singer">Singer</a>
+<a href="default.asp?category=scientist">Scientist</a>
+<a href="default.asp?category=football">Football</a>
+<a href="default.asp?category=hockey">Hockey</a>
+<a class="btn btn-secondary btn-mid" href="/celebrity-horoscope/submit-celebrity-details.asp">Suggest Celebrity</a>
+<a class="btn btn-secondary btn-mid" href="/celebrity-horoscope/suggested-celebrity-corrections.asp">Suggest Corrections</a>
+<a class="close5" href="javascript:closePopup('service','close-popup','overlay5','popup5')"></a>
+<a href="https://buy.astrosage.com/service/personalized-horoscope-2020?language=en&amp;prtnr_id=PHPOP" onclick="closePopup('service','raj-yoga-popup-other','overlay5','popup5')">
+<img src="/images/promotion/ph-popup-en.jpg"/>
+</a>
+<a href="https://buy.astrosage.com/service/astrosage-cloud-paid-plan-platinum?language=en&amp;prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')"><img alt="Dhruv Astro Software" class="img-responsive" src="/images/products/dhruv-astro-software-en.jpg"/></a>
+<a class="btn btn-deep-orange card-shadow br-radius" href="https://buy.astrosage.com/service/astrosage-cloud-paid-plan-platinum?language=en&amp;prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">BUY NOW</a>
+<a href="https://buy.astrosage.com/service/astrosage-brihat-horoscope?language=en&amp;prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">
+<img alt="AstroSage Brihat Horoscope" class="img-responsive" src="/images/products/brihat-bn.jpg"/></a>
+<a href="https://buy.astrosage.com/service/astrosage-brihat-horoscope?language=en&amp;prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">Check Now</a>
+<a href="//buy.astrosage.com/service/finance-new2?prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">
+<img alt="Finance Report" class="img-responsive" src="/images/products/growth.jpg"/></a>
+<a href="//buy.astrosage.com/service/finance-new2?prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">Check Now</a>
+<a href="//buy.astrosage.com/service/ask-a-question?prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">
+<img alt="Ask A Question" class="img-responsive" src="/images/products/ask-a-question.jpg"/></a>
+<a href="//buy.astrosage.com/service/ask-a-question?prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">Check Now</a>
+<a href="//buy.astrosage.com/service/career-job-new2?prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">
+<img alt="Career / Job Report" class="img-responsive" src="/images/products/education.jpg"/></a>
+<a href="//buy.astrosage.com/service/career-job-new2?prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">Check Now</a>
+<a href="http://buy.astrosage.com/service/as-year-book?language=en&amp;prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">
+<img alt="Year Book Report" class="img-responsive" src="/images/products/ic_year-book.jpg"/></a>
+<a href="http://buy.astrosage.com/service/as-year-book?language=en&amp;prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">Check Now</a>
+<a href="https://buy.astrosage.com/service/personalized-horoscope-2020?language=en&amp;prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">
+<img alt="Personalized Horoscope 2020" class="img-responsive" src="/images/products/personalized-horoscope-2020.jpg"/></a>
+<a href="https://buy.astrosage.com/service/personalized-horoscope-2020?language=en&amp;prtnr_id=WDHOM" onclick="getEvents('services', 'home-widget')">Check Now</a>
+<a href="//buy.astrosage.com/gemstone/coral-3-ratti?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')"><img class="img-responsive" src="/images/products/red-coral-new.jpg"/></a>
+<a class="btn btn-deep-orange card-shadow br-radius" href="//buy.astrosage.com/gemstone/coral-3-ratti?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">BUY NOW</a>
+<a href="//buy.astrosage.com/gemstone?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">
+<img alt="gemstones" class="img-responsive" src="/images/products/gemstone.jpg"/></a>
+<a href="//buy.astrosage.com/gemstone?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">Check Now</a>
+<a href="//buy.astrosage.com/yantra?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">
+<img alt="yantras" class="img-responsive" src="/images/products/yantra.jpg"/></a>
+<a href="//buy.astrosage.com/yantra?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">Check Now</a>
+<a href="//buy.astrosage.com/rudraksha?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">
+<img alt="rudraksha" class="img-responsive" src="/images/products/rudraksha.jpg"/></a>
+<a href="//buy.astrosage.com/rudraksha?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">Check Now</a>
+<a href="//buy.astrosage.com/fengshui?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">
+<img alt="feng shui" class="img-responsive" src="/images/products/fengshui.jpg"/></a>
+<a href="//buy.astrosage.com/fengshui?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">Check Now</a>
+<a href="//buy.astrosage.com/mala?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">
+<img alt="mala" class="img-responsive" src="/images/products/mala.jpg"/></a>
+<a href="//buy.astrosage.com/mala?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">Check Now</a>
+<a href="//buy.astrosage.com/jadi-tree-roots?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">
+<img alt="jadi" class="img-responsive" src="/images/products/jadi.jpg"/></a>
+<a href="//buy.astrosage.com/jadi-tree-roots?prtnr_id=WDHOM" onclick="getEvents('products', 'home-widget')">Check Now</a>
+<a class="btn btn-deep-orange card-shadow br-radius ui-margin-b" href="/offer/brihat-horoscope.asp?prtnr_id=BKBSM" onclick='getEvents("service", "brihat-horoscope-banner-sm");'><i class="material-icons">
+                        </i> Buy Now</a>
+<a class="btn btn-subscribe pull-right" href="/mobileapps/" rel="nofollow">All Mobile Apps</a>
+<a class="ui-social-icons icon-android" href="//play.google.com/store/apps/details?id=com.ojassoft.astrosage" rel="nofollow" target="_blank"></a>
+<a class="ui-social-icons icon-iphone" href="//itunes.apple.com/app/astrosage-kundli/id824705526?mt=8" rel="nofollow" target="_blank"></a>
+<a class="ui-social-icons icon-windowp" href="//www.windowsphone.com/en-us/store/app/astrosage-kundli/23c00994-0ea7-4e65-a7c9-f43dfa0af597" rel="nofollow" target="_blank"></a>
+<a class="ui-social-icons icon-facebook" href="//www.facebook.com/astrology.horoscope" rel="nofollow" target="_blank"></a>
+<a class="ui-social-icons icon-twitter" href="//twitter.com/AstroSagesays" rel="nofollow" target="_blank"></a>
+<a class="ui-social-icons icon-youtube" href="//www.youtube.com/user/AstroSageIndia?sub_confirmation=1" rel="nofollow" target="_blank"></a>
+<a class="ui-social-icons icon-rss" href="//feeds.feedburner.com/astrosage/GiaE" rel="nofollow" target="_blank"></a>
+<a class="btn btn-subscribe pull-right" href="//www.youtube.com/user/AstroSageIndia?sub_confirmation=1" rel="nofollow">Subscribe</a>
+<a href="https://www.youtube.com/embed/videoseries?list=UUHBM-lmpDCFzu8hpo8HjW-A" rel="nofollow" target="_blank">
+<img alt="Watch AstroSage TV" src="/images/astrosage-tv.jpg" style="width:100%;"/></a>
+<a data-toggle="tab" href="#asnewsletter">AstroSage Newsletter</a>
+<a data-toggle="tab" href="#dhemail" style="border-right: none;">Daily Horoscope
+        on Email</a>
+<a href="//astrology.astrosage.com">AstroSage Magazine</a>
+<a data-toggle="tab" href="#eng">English</a>
+<a data-toggle="tab" href="#hin">Hindi</a>
+<a class="no-border-r" data-toggle="tab" href="#year">Year 2020</a>
+<a href="https://feeds.feedburner.com/astrosageblog"></a>
+<a href="https://feeds.feedburner.com/AstroSagePatrika"></a>
+<a href="/2020/horoscope-2020.asp">Horoscope 2020</a>
+<a href="/2020/rashifal-2020.asp">Rashifal 2020</a>
+<a href="/2020/chinese-horoscope-2020.asp">Chinese Horoscope 2020</a>
+<a href="/2020/eclipse-2020.asp">Eclipse 2020</a>
+<a href="https://panchang.astrosage.com/calendars/indiancalendar?date=2020&amp;language=en">Calendar 2020</a>
+<a href="/2020/bank-holidays-2020.asp"> Bank Holidays 2020 </a>
+<a href="/2020/education-horoscope-2020-predictions.asp">Education Horoscope 2020</a>
+<a href="/2020/career-horoscope-2020-predictions.asp">Career Horoscope 2020</a>
+<a href="/2020/finance-horoscope-2020-predictions.asp">Finance Horoscope 2020</a>
+<a href="//panchang.astrosage.com/calendars/hindu-calendar?date=2020">Hindu Calendar 2020</a>
+<a href="/2020/lal-kitab-horoscope-2020.asp">Lal Kitab Horoscope 2020</a>
+<a href="/2020/numerology-reading-2020.asp">Numerology 2020</a>
+<a href="//buy.astrosage.com/gemstone/" rel="nofollow">
+<img alt="Get gemstones" src="/images/ic_gemstone.png" style="padding: 5px;" width="100"/>
+</a>
+<a class="btn btn-secondary btn-small" href="//buy.astrosage.com/gemstone/">Buy Now</a>
+<a href="//buy.astrosage.com/yantra/" rel="nofollow">
+<img alt="Get yantra" src="/images/ic_yantra.png" style="padding: 5px;" width="100"/>
+</a>
+<a class="btn btn-secondary btn-small" href="//buy.astrosage.com/yantra/">Buy Now</a>
+<a href="//buy.astrosage.com/fengshui/" rel="nofollow">
+<img alt="Get Feng Shui" src="/images/ic_fengshui.png" style="padding: 5px;" width="100"/>
+</a>
+<a class="btn btn-secondary btn-small" href="//buy.astrosage.com/fengshui/">Buy Now</a>
+<a href="//buy.astrosage.com/rudraksha/" rel="nofollow">
+<img alt="Get rudraksha" src="/images/ic_rudraskh.png" style="padding: 5px;" width="100"/>
+</a>
+<a class="btn btn-secondary btn-small" href="//buy.astrosage.com/rudraksha/">Buy Now</a>
+<a href="/about-astrologer-punit-pandey.asp">
+<img src="/images/punit-pandey.png" style="padding: 5px;" width="100"/>
+</a>
+<a href="/about-astrologer-punit-pandey.asp" style=" color:#555;"><b>Know astrologer Punit Pandey: </b>the
+        brain behind AstroSage.com</a>
+<a href="https://buy.astrosage.com/service?language=en&amp;prtnr_id=CABNR#7" onclick="getEvents('service', 'right-cogniastro-ad');" title="CogniAstro Report">
+<img alt="CogniAstro Report" class="ui-padding-t ui-padding-b" src="/images/promotion/career-guidance-en.jpg"/>
+</a>
+<a href="https://time.astrosage.com" title="World Clock - World time &amp; date">World Clock</a>
+<a href="https://cogniastro.com/" title="Career Counselling">Career Counselling</a>
+<a href="/astrologer/" title="Top 10 Astrologers in Noida">Astrologer in Noida</a>
+<a href="/freechart/matchmaking.asp" title="Free Horoscope Matching/ Kundli Match">Free Kundli Match</a>
+<a href="/freechart/" title="Free Kundli Software">Free Kundli</a>
+<a href="/moonSign.asp" title="Free Moon Sign Horoscope">Moon Sign Horoscope</a>
+<a href="/kpastrology/" title="KP Astrology/ KP System/ Krishnamurti Paddhati">KP Astrology</a>
+<a href="/lalkitab/" title="Lal Kitab / Red Book">Lal Kitab</a>
+<a href="/2020/horoscope-2020.asp">Horoscope 2020</a>
+<a href="/astrology/" title="2017 Astrology">Astrology Tools</a>
+<a href="/2020/rashifal-2020.asp" title="राशिफल 2020">राशिफल 2020</a>
+<a href="/feedback.asp" title="feedback">Feedback</a>
+<a href="/article/article.asp" title="Submit Article">Submit Article</a>
+<a href="/contactUs.asp" title="Submit Article">Contact Us</a>
+<a href="/about-us.asp" title="About Us">About Us</a>
+<a href="/payment.asp" title="Read Payment Description">Payment</a>
+<a href="/privacy-policy.asp" title="Read Privacy Policy">Privacy Policy</a>
+<a href="/terms-conditions.asp" title="Read Terms and Conditions">Terms and Conditions</a>
+<a href="/support/" title="Support">Support</a>
+<a href="http://www.ojassoft.com/jobs/default.asp" title="Career in AstroSage">Jobs@AstroSage</a>
+<a href="//www.astrosage.com" title="Vedic Astrology Software/ Kundli Software">AstroSage.com</a>
